@@ -1,3 +1,7 @@
+/*
+Author: Petah | http://stackoverflow.com/users/268074/petah
+Source: http://stackoverflow.com/a/18078705/3570048
+*/
 var ajax = {};
 ajax.x = function() {
     if (typeof XMLHttpRequest !== 'undefined') {
